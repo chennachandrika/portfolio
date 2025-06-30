@@ -25,7 +25,7 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import threejs from "./tech/threejs.svg";
-import shadCn from "./tech/shadCn.png";
+import shadCn from "./tech/shadcn.png";
 import firstTestimonial from "./Tars Ken.webp";
 import secondTestimonial from "./image.webp";
 import thirdTestimonial from "./third testimonial.webp";
